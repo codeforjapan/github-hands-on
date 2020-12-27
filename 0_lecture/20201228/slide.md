@@ -169,11 +169,17 @@ https://github.com/tokyo-metropolitan-gov/covid19/issues/1172
 
 ---
 
+#### アドレスバーでURLの前に `gitpod.io/#` と入力してEnterするだけ
+
+![drop-shadow](images/gitpod_get_started.png)
+
+---
+
 ## ハンズオン編
 
 ### 4. ブランチを切ろう
 
-- masterブランチで作業しても大丈夫ですが、お作法的に新規ブランチを切ったほうがなにかといいです。
+- master(またはmain)ブランチで作業しても大丈夫ですが、お作法的に新規ブランチを切ったほうがなにかといいです。
 - ブランチ名は `feature/***` とディレクトリを切るやり方が一般的です。
 
 ---
