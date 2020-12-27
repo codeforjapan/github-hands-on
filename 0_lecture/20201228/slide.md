@@ -14,6 +14,9 @@ style: |
 
 # GitHub入門講座
 
+Supported by
+![w:200](images/c4y_logo.png)
+
 ---
 
 ## 本日のメニュー
