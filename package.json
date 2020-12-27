@@ -1,0 +1,22 @@
+{
+  "name": "github-hands-on",
+  "version": "1.0.0",
+  "description": "GitHub入門講座＆ハンズオン",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeforjapan/github-hands-on.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeforjapan/github-hands-on/issues"
+  },
+  "homepage": "https://github.com/codeforjapan/github-hands-on#readme",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^0.23.0"
+  }
+}
