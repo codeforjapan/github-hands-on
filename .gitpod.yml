@@ -2,6 +2,10 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
+  - command: |
+      mkdir -p ~/.config/fontconfig
+      cp fonts.conf ~/.config/fontconfig/
+      fc-cache -fv
   - init: npm install
 
 vscode:
