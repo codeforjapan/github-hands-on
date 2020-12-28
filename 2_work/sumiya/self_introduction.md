@@ -14,12 +14,9 @@ paginate: true
 
 ## 自己紹介
 
-![bg right:40%　w:400　drop-shadow](images/imamurakazuki_square.jpg)
+![bg right:40%　w:400　drop-shadow](images/IMG_2035.jpg)
 
-- 名前: 今村 かずき
-- ハンドル名: kaizumaki
-- インフォ・ラウンジ株式会社
-Webデベロッパー
-- Code for CAT
-- Code for Japan
-- GitHub女将
+- 名前: 隅屋　輝佳
+- ハンドル名: teruka-s
+- Pnika/ 第四次産業革命日本センター　アジャイルガバナンスプロジェクト
+
