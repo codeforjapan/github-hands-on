@@ -16,10 +16,10 @@ paginate: true
 
 ![bg right:40%　w:400　drop-shadow](images/imamurakazuki_square.jpg)
 
-- 名前: 今村 かずき
-- ハンドル名: kaizumaki
-- インフォ・ラウンジ株式会社
-Webデベロッパー
-- Code for CAT
+- 名前: 陣内　一樹
+- ハンドル名: kjinnouchi
 - Code for Japan
-- GitHub女将
+理事
+プロジェクトマネージャー
+- Code for Toshima
+- Code for SAKE
