@@ -16,8 +16,8 @@ paginate: true
 
 ![bg right:40%　w:400　drop-shadow](images/imamurakazuki_square.jpg)
 
-- 名前: 今村 かずき
-- ハンドル名: kaizumaki
+- 名前: inoue yusuke
+- ハンドル名: YI
 - インフォ・ラウンジ株式会社
 Webデベロッパー
 - Code for CAT
