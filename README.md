@@ -1,4 +1,8 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/codeforjapan/github-hands-on)
+
 # GitHub入門講座＆ハンズオン
+
+上記のGitpodのバッジをクリックして開始してください。
 
 スライドは[Marp](https://marp.app/)を利用して作成されています。
 
