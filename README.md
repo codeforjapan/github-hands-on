@@ -1,6 +1,6 @@
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/codeforjapan/github-hands-on)
 
-| ⚠️ This repository will be archived in the future, this config will no longer be maintained. Thanks for all the stars, help and brainstorms! |
+| ⚠️ This repository has been archived and will no longer be maintained. Thanks for all the stars, help and brainstorms! |
 
 # GitHub入門講座＆ハンズオン
 
